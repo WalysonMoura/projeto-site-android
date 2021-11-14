@@ -1,22 +1,29 @@
 # projeto-site-android
 
-## ⚡ Sobre 
+### 🔭 Sobre 
 
 <p align="justify">
 
 -  Site criado durante o curso de HTML e CSS do curso em vídeo
 
-## :rocket: Tecnologias
+</p>
+
+### :rocket: Tecnologias
+
+<p align="justify">
+
 - HTML
 - CSS
 
-## :camera: Demonstração
+</p>
+
+### :camera: Demonstração
 
 <p align="center">
  <img src="https://i.ibb.co/84FxRPK/2021-11-12-10-19-10.gif">
 </p>
 
-## 💻 Como acessar
+### 💻 Como acessar
 
 <p align="justify">
 
