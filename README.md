@@ -27,13 +27,14 @@
 
 <p align="justify">
 
--  Para visitar o site basta clicar <a href="https://walysonmoura.github.io/projeto-site-android/">AQUI</a>
+-  Para visitar o site basta clicar <a href="https://walysonmoura.github.io/projeto-site-android/">AQUI😉
+</a>
 -  ou se preferir basta apontar a câmera do seu celular para o QR CODE abaixo:
 
 </p align="justify">
 
 <p align="center">
-<img src="https://i.ibb.co/XCWNxGN/QRCode.png">
+<a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/XCWNxGN/QRCode.png"></a>
 </p>
 
 ##
