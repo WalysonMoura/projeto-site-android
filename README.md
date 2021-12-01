@@ -20,7 +20,7 @@
 ### :camera: Demonstração
 
 <p align="center">
-  <a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/HqSgHcQ/20211201-151809.png" alt="20211201-151809" border="0"></a>
+  <a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/kKvCVn4/20211201-152521.png" alt="20211201-152521" border="0"></a>
 </p>
 
 ### 💻 Como acessar
