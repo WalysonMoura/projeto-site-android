@@ -20,7 +20,7 @@
 ### :camera: Demonstração
 
 <p align="center">
-  <a href="https://walysonmoura.github.io/projeto-site-android/" target="_blank"><img src="https://i.ibb.co/84FxRPK/2021-11-12-10-19-10.gif" target="_blank"></a>
+  <a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/HqSgHcQ/20211201-151809.png" alt="20211201-151809" border="0"></a>
 </p>
 
 ### 💻 Como acessar
@@ -30,10 +30,10 @@
 -  Para visitar o site basta clicar <a href="https://walysonmoura.github.io/projeto-site-android/" target="_blank">AQUI</a>
 -  ou se preferir basta apontar a câmera do seu celular para o QR CODE abaixo:
 
-</p align="justify">
+</p>
 
 <p align="center">
-<a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/XCWNxGN/QRCode.png"></a>
+<a href="https://walysonmoura.github.io/projeto-site-android/"><img src="https://i.ibb.co/f06hqn8/20211201-150126.png" alt="20211201-150126" border="0"></a>
 </p>
 
 ##
